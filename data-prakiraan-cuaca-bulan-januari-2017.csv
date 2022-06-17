@@ -1,0 +1,469 @@
+tanggal,wilayah,waktu,cuaca,kelembaban_persen,suhu_derajat_celcius
+2017-01-03,Jakarta Pusat,Pagi,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Utara,Pagi,Berawan,65 - 95,22 - 31
+2017-01-03,Jakarta Selatan,Pagi,Berawan,65 - 95,22 - 31
+2017-01-03,Jakarta Barat,Pagi,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Timur,Pagi,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Kepulauan Seribu,Pagi,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Pusat,Siang,Hujan Petir,65 - 95,22 - 31
+2017-01-03,Jakarta Utara,Siang,Hujan Petir,65 - 95,22 - 31
+2017-01-03,Jakarta Selatan,Siang,Hujan Petir,65 - 95,22 - 31
+2017-01-03,Jakarta Barat,Siang,Hujan Petir,65 - 95,22 - 31
+2017-01-03,Jakarta Timur,Siang,Hujan Petir,65 - 95,22 - 31
+2017-01-03,Kepulauan Seribu,Siang,Hujan Petir,65 - 95,22 - 31
+2017-01-03,Jakarta Pusat,Malam,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Utara,Malam,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Selatan,Malam,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Barat,Malam,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Jakarta Timur,Malam,Hujan Ringan,65 - 95,22 - 31
+2017-01-03,Kepulauan Seribu,Malam,Hujan Ringan,65 - 95,22 - 31
+2017-01-04,Jakarta Pusat,Pagi,Berawan,60 - 95,21 - 34
+2017-01-04,Jakarta Utara,Pagi,Berawan,60 - 95,21 - 34
+2017-01-04,Jakarta Selatan,Pagi,Berawan,60 - 95,21 - 34
+2017-01-04,Jakarta Barat,Pagi,Berawan,60 - 95,21 - 34
+2017-01-04,Jakarta Timur,Pagi,Berawan,60 - 95,21 - 34
+2017-01-04,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Pusat,Siang,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Utara,Siang,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Selatan,Siang,Hujan Sedang,60 - 95,21 - 34
+2017-01-04,Jakarta Barat,Siang,Hujan Sedang,60 - 95,21 - 34
+2017-01-04,Jakarta Timur,Siang,Hujan Sedang,60 - 95,21 - 34
+2017-01-04,Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Pusat,Malam,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Utara,Malam,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Selatan,Malam,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Jakarta Barat,Malam,Hujan Sedang,60 - 95,21 - 34
+2017-01-04,Jakarta Timur,Malam,Hujan Ringan,60 - 95,21 - 34
+2017-01-04,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,21 - 34
+2017-01-05,Jakarta Pusat,Pagi,Berawan Tebal,60 - 95 ,22 - 31
+2017-01-05,Jakarta Utara,Pagi,Hujan Ringan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Selatan,Pagi,Berawan Tebal,60 - 95 ,22 - 31
+2017-01-05,Jakarta Barat,Pagi,Berawan Tebal,60 - 95 ,22 - 31
+2017-01-05,Jakarta Timur,Pagi,Berawan Tebal,60 - 95 ,22 - 31
+2017-01-05,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Pusat,Siang,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Utara,Siang,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Selatan,Siang,Hujan Ringan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Barat,Siang,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Timur,Siang,Hujan Ringan,60 - 95 ,22 - 31
+2017-01-05,Kepulauan Seribu,Siang,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Pusat,Malam,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Utara,Malam,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Selatan,Malam,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Barat,Malam,Berawan,60 - 95 ,22 - 31
+2017-01-05,Jakarta Timur,Malam,Berawan,60 - 95 ,22 - 31
+2017-01-05,Kepulauan Seribu,Malam,Berawan,60 - 95 ,22 - 31
+2017-01-08,Jakarta Pusat,Pagi,Berawan,70 - 95,21 - 33
+2017-01-08,Jakarta Utara,Pagi,Berawan,70 - 95,21 - 33
+2017-01-08,Jakarta Selatan,Pagi,Berawan,70 - 95,21 - 33
+2017-01-08,Jakarta Barat,Pagi,Berawan,70 - 95,21 - 33
+2017-01-08,Jakarta Timur,Pagi,Berawan,70 - 95,21 - 33
+2017-01-08,Kepulauan Seribu,Pagi,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Pusat,Siang,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Utara,Siang,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Selatan,Siang,Hujan Sedang,70 - 95,21 - 33
+2017-01-08,Jakarta Barat,Siang,Hujan Sedang,70 - 95,21 - 33
+2017-01-08,Jakarta Timur,Siang,Hujan Sedang,70 - 95,21 - 33
+2017-01-08,Kepulauan Seribu,Siang,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Pusat,Malam,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Utara,Malam,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Selatan,Malam,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Jakarta Barat,Malam,Hujan Sedang,70 - 95,21 - 33
+2017-01-08,Jakarta Timur,Malam,Hujan Ringan,70 - 95,21 - 33
+2017-01-08,Kepulauan Seribu,Malam,Hujan Ringan,70 - 95,21 - 33
+2017-01-10,Jakarta Pusat,Pagi,Berawan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Utara,Pagi,Berawan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Selatan,Pagi,Berawan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Barat,Pagi,Berawan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Timur,Pagi,Berawan,75 - 100 ,22 - 32
+2017-01-10,Kepulauan Seribu,Pagi,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Pusat,Siang,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Utara,Siang,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Selatan,Siang,Hujan Sedang,75 - 100 ,22 - 32
+2017-01-10,Jakarta Barat,Siang,Hujan Sedang,75 - 100 ,22 - 32
+2017-01-10,Jakarta Timur,Siang,Hujan Sedang,75 - 100 ,22 - 32
+2017-01-10,Kepulauan Seribu,Siang,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Pusat,Malam,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Utara,Malam,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Selatan,Malam,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Jakarta Barat,Malam,Hujan Sedang,75 - 100 ,22 - 32
+2017-01-10,Jakarta Timur,Malam,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-10,Kepulauan Seribu,Malam,Hujan Ringan,75 - 100 ,22 - 32
+2017-01-11,Jakarta Pusat,Pagi,Berawan,65 - 97,22 - 32
+2017-01-11,Jakarta Utara,Pagi,Berawan,65 - 97,22 - 32
+2017-01-11,Jakarta Selatan,Pagi,Berawan,65 - 97,22 - 32
+2017-01-11,Jakarta Barat,Pagi,Berawan,65 - 97,22 - 32
+2017-01-11,Jakarta Timur,Pagi,Berawan,65 - 97,22 - 32
+2017-01-11,Kepulauan Seribu,Pagi,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Pusat,Siang,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Utara,Siang,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Selatan,Siang,Hujan Sedang,65 - 97,22 - 32
+2017-01-11,Jakarta Barat,Siang,Hujan Sedang,65 - 97,22 - 32
+2017-01-11,Jakarta Timur,Siang,Hujan Sedang,65 - 97,22 - 32
+2017-01-11,Kepulauan Seribu,Siang,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Pusat,Malam,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Utara,Malam,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Selatan,Malam,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Jakarta Barat,Malam,Hujan Sedang,65 - 97,22 - 32
+2017-01-11,Jakarta Timur,Malam,Hujan Ringan,65 - 97,22 - 32
+2017-01-11,Kepulauan Seribu,Malam,Hujan Ringan,65 - 97,22 - 32
+2017-01-12,Jakarta Pusat,Pagi,Berawan Tebal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Utara,Pagi,Berawan Tebal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Selatan,Pagi,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Barat,Pagi,Berawan Tebal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Timur,Pagi,Berawan Tebal,65 - 95 ,23 - 33
+2017-01-12,Kepulauan Seribu,Pagi,Berawan Tebal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Pusat,Siang,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Utara,Siang,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Selatan,Siang,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Barat,Siang,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Timur,Siang,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Kepulauan Seribu,Siang,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Pusat,Malam,Hujan Petir,65 - 95 ,23 - 33
+2017-01-12,Jakarta Utara,Malam,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Selatan,Malam,Hujan Petir,65 - 95 ,23 - 33
+2017-01-12,Jakarta Barat,Malam,Hujan Petir,65 - 95 ,23 - 33
+2017-01-12,Jakarta Timur,Malam,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Kepulauan Seribu,Malam,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Utara,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Selatan,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Jakarta Barat,Dini Hari,Hujan Petir,65 - 95 ,23 - 33
+2017-01-12,Jakarta Timur,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-12,Kepulauan Seribu,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33
+2017-01-13,Jakarta Pusat,Pagi,Berawan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Utara,Pagi,Berawan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Selatan,Pagi,Berawan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Barat,Pagi,Berawan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Timur,Pagi,Berawan,60 - 95 ,24 - 32
+2017-01-13,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Pusat,Siang,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Utara,Siang,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Selatan,Siang,Hujan Sedang,60 - 95 ,24 - 32
+2017-01-13,Jakarta Barat,Siang,Hujan Sedang,60 - 95 ,24 - 32
+2017-01-13,Jakarta Timur,Siang,Hujan Sedang,60 - 95 ,24 - 32
+2017-01-13,Kepulauan Seribu,Siang,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Pusat,Malam,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Utara,Malam,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Selatan,Malam,Hujan Sedang,60 - 95 ,24 - 32
+2017-01-13,Jakarta Barat,Malam,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Jakarta Timur,Malam,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-13,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95 ,24 - 32
+2017-01-14,Jakarta Pusat,Pagi,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Utara,Pagi,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Selatan,Pagi,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Barat,Pagi,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Timur,Pagi,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Kepulauan Seribu,Pagi,Hujan Sedang,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Pusat,Siang,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Utara,Siang,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Selatan,Siang,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Barat,Siang,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Timur,Siang,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Kepulauan Seribu,Siang,Hujan Ringan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Pusat,Malam,Berawan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Utara,Malam,Berawan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Selatan,Malam,Berawan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Barat,Malam,Berawan,80 - 95 ,22 – 33 
+2017-01-14,Jakarta Timur,Malam,Berawan,80 - 95 ,22 – 33 
+2017-01-14,Kepulauan Seribu,Malam,Cerah Berawan,80 - 95 ,22 – 33 
+2017-01-15,Jakarta Pusat,Pagi,Berawan Tebal,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Utara,Pagi,Berawan Tebal ,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Selatan,Pagi,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Barat,Pagi,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Timur,Pagi,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Pusat,Siang,Berawan Tebal ,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Utara,Siang,Berawan Tebal,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Selatan,Siang,Berawan Tebal,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Barat,Siang,Berawan Tebal,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Timur,Siang,Berawan Tebal,60 - 95 ,24 – 34 
+2017-01-15,Kepulauan Seribu,Siang,Berawan Tebal,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Pusat,Malam,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Utara,Malam,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Selatan,Malam,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Barat,Malam,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Jakarta Timur,Malam,Berawan,60 - 95 ,24 – 34 
+2017-01-15,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95 ,24 – 34 
+2017-01-16,Jakarta Pusat,Pagi,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Utara,Pagi,Hujan Ringan,85 - 100 ,22 – 30
+2017-01-16,Jakarta Selatan,Pagi,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Barat,Pagi,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Timur,Pagi,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Kepulauan Seribu,Pagi,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Pusat,Siang,Hujan Sedang,85 - 100 ,22 – 30
+2017-01-16,Jakarta Utara,Siang,Hujan Ringan,85 - 100 ,22 – 30
+2017-01-16,Jakarta Selatan,Siang,Hujan Petir,85 - 100 ,22 – 30
+2017-01-16,Jakarta Barat,Siang,Hujan Petir,85 - 100 ,22 – 30
+2017-01-16,Jakarta Timur,Siang,Hujan Petir,85 - 100 ,22 – 30
+2017-01-16,Kepulauan Seribu,Siang,Hujan Ringan,85 - 100 ,22 – 30
+2017-01-16,Jakarta Pusat,Malam,Berawan Tebal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Utara,Malam,Berawan Tebal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Selatan,Malam,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Barat,Malam,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-16,Jakarta Timur,Malam,Berawan tebal,85 - 100 ,22 – 30
+2017-01-16,Kepulauan Seribu,Malam,Hujan Lokal,85 - 100 ,22 – 30
+2017-01-17,Jakarta Pusat,Pagi,Berawan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Utara,Pagi,Berawan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Selatan,Pagi,Hujan Lokal,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Barat,Pagi,Hujan Lokal,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Timur,Pagi,Berawan,60 - 100 ,22 - 33 
+2017-01-17,Kepulauan Seribu,Pagi,Hujan Petir,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Pusat,Siang,Hujan Ringan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Utara,Siang,Hujan Ringan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Selatan,Siang,Hujan Sedang,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Barat,Siang,Hujan Sedang,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Timur,Siang,Hujan Ringan,60 - 100 ,22 - 33 
+2017-01-17,Kepulauan Seribu,Siang,Hujan Ringan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Pusat,Malam,Cerah Berawan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Utara,Malam,Cerah Berawan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Selatan,Malam,Cerah Berawan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Barat,Malam,Cerah Berawan,60 - 100 ,22 - 33 
+2017-01-17,Jakarta Timur,Malam,Cerah Berawan,60 - 100 ,22 - 33 
+2017-01-17,Kepulauan Seribu,Malam,Hujan Lokal,60 - 100 ,22 - 33 
+2017-01-19,Jakarta Pusat,Pagi,Berawan,60 - 95,22 - 32
+2017-01-19,Jakarta Utara,Pagi,Berawan,60 - 95,22 - 32
+2017-01-19,Jakarta Selatan,Pagi,Berawan,60 - 95,22 - 32
+2017-01-19,Jakarta Barat,Pagi,Berawan,60 - 95,22 - 32
+2017-01-19,Jakarta Timur,Pagi,Berawan,60 - 95,22 - 32
+2017-01-19,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Pusat,Siang,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Utara,Siang,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Selatan,Siang,Hujan Sedang,60 - 95,22 - 32
+2017-01-19,Jakarta Barat,Siang,Hujan Sedang,60 - 95,22 - 32
+2017-01-19,Jakarta Timur,Siang,Hujan Sedang,60 - 95,22 - 32
+2017-01-19,Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Pusat,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Utara,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Selatan,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Jakarta Barat,Malam,Hujan Sedang,60 - 95,22 - 32
+2017-01-19,Jakarta Timur,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-19,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-20,Jakarta Pusat,Pagi,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Utara,Pagi,Hujan Ringan,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Selatan,Pagi,Berawan,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Barat,Pagi,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Timur,Pagi,Berawan,55 – 95 ,22 – 32  
+2017-01-20,Kepulauan Seribu,Pagi,Hujan Ringan,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Pusat,Siang,Hujan Sedang,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Utara,Siang,Hujan Petir,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Selatan,Siang,Hujan Ringan,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Barat,Siang,Hujan Sedang,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Timur,Siang,Hujan Ringan,55 – 95 ,22 – 32  
+2017-01-20,Kepulauan Seribu,Siang,Hujan Sedang,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Pusat,Malam,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Utara,Malam,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Selatan,Malam,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Barat,Malam,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Jakarta Timur,Malam,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-20,Kepulauan Seribu,Malam,Berawan Tebal,55 – 95 ,22 – 32  
+2017-01-22,Jakarta Pusat,Pagi,Berawan,60 - 95,22 - 32
+2017-01-22,Jakarta Utara,Pagi,Berawan,60 - 95,22 - 32
+2017-01-22,Jakarta Selatan,Pagi,Berawan,60 - 95,22 - 32
+2017-01-22,Jakarta Barat,Pagi,Berawan,60 - 95,22 - 32
+2017-01-22,Jakarta Timur,Pagi,Berawan,60 - 95,22 - 32
+2017-01-22,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Pusat,Siang,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Utara,Siang,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Selatan,Siang,Hujan Sedang,60 - 95,22 - 32
+2017-01-22,Jakarta Barat,Siang,Hujan Sedang,60 - 95,22 - 32
+2017-01-22,Jakarta Timur,Siang,Hujan Sedang,60 - 95,22 - 32
+2017-01-22,Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Pusat,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Utara,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Selatan,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Jakarta Barat,Malam,Hujan Sedang,60 - 95,22 - 32
+2017-01-22,Jakarta Timur,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-22,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,22 - 32
+2017-01-23,Jakarta Pusat,Pagi,Berawan Tebal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Utara,Pagi,Berawan Tebal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Selatan,Pagi,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Barat,Pagi,Berawan Tebal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Timur,Pagi,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Kepulauan Seribu,Pagi,Hujan Ringan,65 - 90 ,22 - 33
+2017-01-23,Jakarta Pusat,Siang,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Utara,Siang,Hujan Ringan,65 - 90 ,22 - 33
+2017-01-23,Jakarta Selatan,Siang,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Barat,Siang,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Timur,Siang,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Kepulauan Seribu,Siang,Hujan Ringan,65 - 90 ,22 - 33
+2017-01-23,Jakarta Pusat,Malam,Berawan Tebal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Utara,Malam,Berawan Tebal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Selatan,Malam,Hujan Ringan,65 - 90 ,22 - 33
+2017-01-23,Jakarta Barat,Malam,Hujan Lokal,65 - 90 ,22 - 33
+2017-01-23,Jakarta Timur,Malam,Hujan Ringan,65 - 90 ,22 - 33
+2017-01-23,Kepulauan Seribu,Malam,Hujan Ringan,65 - 90 ,22 - 33
+2017-01-24,Jakarta Pusat,Pagi,Hujan Sedang,75 - 90,21 - 33
+2017-01-24,Jakarta Utara,Pagi,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Selatan,Pagi,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Barat,Pagi,Hujan Sedang,75 - 90,21 - 33
+2017-01-24,Jakarta Timur,Pagi,Hujan Sedang,75 - 90,21 - 33
+2017-01-24,Kepulauan Seribu,Pagi,Hujan Sedang,75 - 90,21 - 33
+2017-01-24,Jakarta Pusat,Siang,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Utara,Siang,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Selatan,Siang,Hujan Lokal,75 - 90,21 - 33
+2017-01-24,Jakarta Barat,Siang,Hujan Lokal,75 - 90,21 - 33
+2017-01-24,Jakarta Timur,Siang,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Kepulauan Seribu,Siang,Hujan Lokal,75 - 90,21 - 33
+2017-01-24,Jakarta Pusat,Malam,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Utara,Malam,Hujan Sedang,75 - 90,21 - 33
+2017-01-24,Jakarta Selatan,Malam,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Barat,Malam,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Jakarta Timur,Malam,Hujan Ringan,75 - 90,21 - 33
+2017-01-24,Kepulauan Seribu,Malam,Hujan Ringan,75 - 90,21 - 33
+2017-01-25,Jakarta Pusat,Pagi,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Utara,Pagi,Berawan Tebal,55 - 95 ,21 - 32
+2017-01-25,Jakarta Selatan,Pagi,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Barat,Pagi,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Timur,Pagi,Berawan,55 - 95 ,21 - 32
+2017-01-25,Kepulauan Seribu,Pagi,Hujan Lokal,55 - 95 ,21 - 32
+2017-01-25,Jakarta Pusat,Siang,Berawan Tebal,55 - 95 ,21 - 32
+2017-01-25,Jakarta Utara,Siang,Berawan Tebal,55 - 95 ,21 - 32
+2017-01-25,Jakarta Selatan,Siang,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Barat,Siang,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Timur,Siang,Berawan,55 - 95 ,21 - 32
+2017-01-25,Kepulauan Seribu,Siang,Hujan Lokal,55 - 95 ,21 - 32
+2017-01-25,Jakarta Pusat,Malam,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Utara,Malam,Hujan Lokal,55 - 95 ,21 - 32
+2017-01-25,Jakarta Selatan,Malam,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Barat,Malam,Berawan,55 - 95 ,21 - 32
+2017-01-25,Jakarta Timur,Malam,Berawan,55 - 95 ,21 - 32
+2017-01-25,Kepulauan Seribu,Malam,Hujan Lokal,55 - 95 ,21 - 32
+2017-01-26,Jakarta Pusat,Pagi,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Utara,Pagi,Berawan Tebal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Selatan,Pagi,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Barat,Pagi,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Timur,Pagi,Berawan,60 - 95 ,21 - 33
+2017-01-26,Kepulauan Seribu,Pagi,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Pusat,Siang,Berawan Tebal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Utara,Siang,Berawan Tebal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Selatan,Siang,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Barat,Siang,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Timur,Siang,Berawan,60 - 95 ,21 - 33
+2017-01-26,Kepulauan Seribu,Siang,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Pusat,Malam,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Utara,Malam,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Selatan,Malam,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Barat,Malam,Berawan,60 - 95 ,21 - 33
+2017-01-26,Jakarta Timur,Malam,Berawan,60 - 95 ,21 - 33
+2017-01-26,Kepulauan Seribu,Malam,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Pusat,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Utara,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Selatan,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Barat,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Jakarta Timur,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-26,Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33
+2017-01-27,Jakarta Pusat,Pagi,Hujan Lokal,65 - 95 ,25 - 33
+2017-01-27,Jakarta Utara,Pagi,Hujan Lokal,65 - 95 ,25 - 33
+2017-01-27,Jakarta Selatan,Pagi,Hujan Lokal,65 - 95 ,25 - 33
+2017-01-27,Jakarta Barat,Pagi,Berawan Tebal,65 - 95 ,25 - 33
+2017-01-27,Jakarta Timur,Pagi,Berawan Tebal,65 - 95 ,25 - 33
+2017-01-27,Kepulauan Seribu,Pagi,Berawan Tebal,65 - 95 ,25 - 33
+2017-01-27,Jakarta Pusat,Siang,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Utara,Siang,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Selatan,Siang,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Barat,Siang,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Timur,Siang,Berawan,65 - 95 ,25 - 33
+2017-01-27,Kepulauan Seribu,Siang,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Pusat,Malam,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Utara,Malam,Hujan Ringan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Selatan,Malam,Berawan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Barat,Malam,Hujan Petir,65 - 95 ,25 - 33
+2017-01-27,Jakarta Timur,Malam,Hujan Ringan,65 - 95 ,25 - 33
+2017-01-27,Kepulauan Seribu,Malam,Hujan Sedang,65 - 95 ,25 - 33
+2017-01-27,Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 95 ,25 - 33
+2017-01-27,Jakarta Utara,Dini Hari,Hujan Ringan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Selatan,Dini Hari,Hujan Ringan,65 - 95 ,25 - 33
+2017-01-27,Jakarta Barat,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33
+2017-01-27,Jakarta Timur,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33
+2017-01-27,Kepulauan Seribu,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33
+2017-01-28,Jakarta Pusat,Pagi,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Utara,Pagi,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Selatan,Pagi,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Barat,Pagi,Hujan Sedang,60 - 100 ,22 - 32
+2017-01-28,Jakarta Timur,Pagi,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Kepulauan Seribu,Pagi,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Pusat,Siang,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Utara,Siang,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Selatan,Siang,Hujan Sedang,60 - 100 ,22 - 32
+2017-01-28,Jakarta Barat,Siang,Berawan,60 - 100 ,22 - 32
+2017-01-28,Jakarta Timur,Siang,Hujan Ringan,60 - 100 ,22 - 32
+2017-01-28,Kepulauan Seribu,Siang,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Pusat,Malam,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Utara,Malam,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Selatan,Malam,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Barat,Malam,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Timur,Malam,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Kepulauan Seribu,Malam,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Pusat,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Utara,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Selatan,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Barat,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Jakarta Timur,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-28,Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32
+2017-01-29,Jakarta Pusat,Pagi,Hujan Sedang,65 - 100 ,22 - 31
+2017-01-29,Jakarta Utara,Pagi,Hujan Sedang,65 - 100 ,22 - 31
+2017-01-29,Jakarta Selatan,Pagi,Hujan Sedang,65 - 100 ,22 - 31
+2017-01-29,Jakarta Barat,Pagi,Hujan Sedang,65 - 100 ,22 - 31
+2017-01-29,Jakarta Timur,Pagi,Hujan Sedang,65 - 100 ,22 - 31
+2017-01-29,Kepulauan Seribu,Pagi,Hujan Sedang,65 - 100 ,22 - 31
+2017-01-29,Jakarta Pusat,Siang,Hujan Ringan,65 - 100 ,22 - 31
+2017-01-29,Jakarta Utara,Siang,Hujan Ringan,65 - 100 ,22 - 31
+2017-01-29,Jakarta Selatan,Siang,Hujan Ringan,65 - 100 ,22 - 31
+2017-01-29,Jakarta Barat,Siang,Hujan Ringan,65 - 100 ,22 - 31
+2017-01-29,Jakarta Timur,Siang,Hujan Ringan,65 - 100 ,22 - 31
+2017-01-29,Kepulauan Seribu,Siang,Hujan Ringan,65 - 100 ,22 - 31
+2017-01-29,Jakarta Pusat,Malam,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Utara,Malam,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Selatan,Malam,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Barat,Malam,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Timur,Malam,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Kepulauan Seribu,Malam,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Utara,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Selatan,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Barat,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31
+2017-01-29,Jakarta Timur,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31
+2017-01-29,Kepulauan Seribu,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31
+2017-01-30,Jakarta Pusat,Pagi,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Utara,Pagi,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Selatan,Pagi,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Barat,Pagi,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Timur,Pagi,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Kepulauan Seribu,Pagi,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Pusat,Siang,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Utara,Siang,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Selatan,Siang,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Barat,Siang,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Jakarta Timur,Siang,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Kepulauan Seribu,Siang,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Pusat,Malam,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Jakarta Utara,Malam,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Selatan,Malam,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Barat,Malam,Hujan Sedang,85 - 100 ,24 - 31
+2017-01-30,Jakarta Timur,Malam,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Kepulauan Seribu,Malam,Hujan Ringan,85 - 100 ,24 - 31
+2017-01-30,Jakarta Pusat,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Jakarta Utara,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Jakarta Selatan,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Jakarta Barat,Dini Hari,Hujan Petir,85 - 100 ,24 - 31
+2017-01-30,Jakarta Timur,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-30,Kepulauan Seribu,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31
+2017-01-31,Jakarta Pusat,Pagi,Berawan Tebal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Utara,Pagi,Berawan Tebal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Selatan,Pagi,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Barat,Pagi,Berawan Tebal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Timur,Pagi,Berawan Tebal,60 - 90 ,24 - 33
+2017-01-31,Kepulauan Seribu,Pagi,Berawan Tebal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Pusat,Siang,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Utara,Siang,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Selatan,Siang,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Barat,Siang,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Timur,Siang,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Kepulauan Seribu,Siang,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Pusat,Malam,Hujan Petir,60 - 90 ,24 - 33
+2017-01-31,Jakarta Utara,Malam,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Jakarta Selatan,Malam,Hujan Petir,60 - 90 ,24 - 33
+2017-01-31,Jakarta Barat,Malam,Hujan Petir,60 - 90 ,24 - 33
+2017-01-31,Jakarta Timur,Malam,Hujan Lokal,60 - 90 ,24 - 33
+2017-01-31,Kepulauan Seribu,Malam,Hujan Lokal,60 - 90 ,24 - 33

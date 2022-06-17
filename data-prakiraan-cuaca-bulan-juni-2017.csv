@@ -1,0 +1,481 @@
+tanggal,wilayah,waktu,cuaca,kelembaban_persen,suhu_derajat_celcius
+2017-06-01,Jakarta Timur,Pagi,Hujan Petir,60 - 95,24 - 34
+2017-06-01,Jakarta Barat,Pagi,Hujan Ringan,60 - 95,24 - 34
+2017-06-01,Jakarta Selatan,Pagi,Hujan Petir,60 - 95,24 - 34
+2017-06-01,Kepulauan Seribu,Pagi,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Jakarta Pusat,Pagi,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Jakarta Utara,Pagi,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Jakarta Timur,Siang,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Jakarta Barat,Siang,Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Selatan,Siang,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Kepulauan Seribu,Siang,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Jakarta Pusat,Siang,Berawan Tebal,60 - 95,24 - 34
+2017-06-01,Jakarta Utara,Siang,Berawan Tebal,60 - 95,24 - 34
+2017-06-01,Jakarta Timur,Malam,Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Barat,Malam,Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Selatan,Malam,Berawan,60 - 95,24 - 34
+2017-06-01,Kepulauan Seribu,Malam,Hujan Lokal,60 - 95,24 - 34
+2017-06-01,Jakarta Pusat,Malam,Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Utara,Malam,Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Barat,Dini Hari,Berawan Tebal,60 - 95,24 - 34
+2017-06-01,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 95,24 - 34
+2017-06-01,Kepulauan Seribu,Dini Hari,Berawan Tebal,60 - 95,24 - 34
+2017-06-01,Jakarta Pusat,Dini Hari,Berawan,60 - 95,24 - 34
+2017-06-01,Jakarta Utara,Dini Hari,Berawan,60 - 95,24 - 34
+2017-06-02,Jakarta Timur,Pagi,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Barat,Pagi,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Selatan,Pagi,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Kepulauan Seribu,Pagi,Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Pusat,Pagi,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Utara,Pagi,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Timur,Siang,Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Barat,Siang,Berawan Tebal,55 - 90,26 - 32
+2017-06-02,Jakarta Selatan,Siang,Berawan,55 - 90,26 - 32
+2017-06-02,Kepulauan Seribu,Siang,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Pusat,Siang,Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Utara,Siang,Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Timur,Malam,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Barat,Malam,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Selatan,Malam,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Kepulauan Seribu,Malam,Hujan Lokal,55 - 90,26 - 32
+2017-06-02,Jakarta Pusat,Malam,Cerah Berawan,55 - 90,26 - 32
+2017-06-02,Jakarta Utara,Malam,Hujan Lokal,55 - 90,26 - 32
+2017-06-02,Jakarta Timur,Dini Hari,Berawan Tebal,55 - 90,26 - 32
+2017-06-02,Jakarta Barat,Dini Hari,Berawan Tebal,55 - 90,26 - 32
+2017-06-02,Jakarta Selatan,Dini Hari,Berawan Tebal,55 - 90,26 - 32
+2017-06-02,Kepulauan Seribu,Dini Hari,Hujan Lokal,55 - 90,26 - 32
+2017-06-02,Jakarta Pusat,Dini Hari,Berawan Tebal,55 - 90,26 - 32
+2017-06-02,Jakarta Utara,Dini Hari,Berawan Tebal,55 - 90,26 - 32
+2017-06-03,Jakarta Timur,Pagi,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Barat,Pagi,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Selatan,Pagi,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Kepulauan Seribu,Pagi,Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Pusat,Pagi,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Utara,Pagi,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Timur,Siang,Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Barat,Siang,Berawan Tebal,60 - 90,25 - 32
+2017-06-03,Jakarta Selatan,Siang,Berawan,60 - 90,25 - 32
+2017-06-03,Kepulauan Seribu,Siang,Hujan Ringan,60 - 90,25 - 32
+2017-06-03,Jakarta Pusat,Siang,Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Utara,Siang,Hujan Ringan,60 - 90,25 - 32
+2017-06-03,Jakarta Timur,Malam,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Barat,Malam,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Selatan,Malam,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Kepulauan Seribu,Malam,Hujan Ringan,60 - 90,25 - 32
+2017-06-03,Jakarta Pusat,Malam,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Utara,Malam,Cerah Berawan,60 - 90,25 - 32
+2017-06-03,Jakarta Timur,Dini Hari,Berawan Tebal,60 - 90,25 - 32
+2017-06-03,Jakarta Barat,Dini Hari,Berawan Tebal,60 - 90,25 - 32
+2017-06-03,Jakarta Selatan,Dini Hari,Berawan Tebal,60 - 90,25 - 32
+2017-06-03,Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 90,25 - 32
+2017-06-03,Jakarta Pusat,Dini Hari,Berawan Tebal,60 - 90,25 - 32
+2017-06-03,Jakarta Utara,Dini Hari,Berawan Tebal,60 - 90,25 - 32
+2017-06-04,Jakarta Timur,Pagi,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Barat,Pagi,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Selatan,Pagi,Berawan,60 - 95,24 - 31
+2017-06-04,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Pusat,Pagi,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Utara,Pagi,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Timur,Siang,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Barat,Siang,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Selatan,Siang,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Kepulauan Seribu,Siang,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Pusat,Siang,Berawan Tebal,60 - 95,24 - 31
+2017-06-04,Jakarta Utara,Siang,Berawan Tebal,60 - 95,24 - 31
+2017-06-04,Jakarta Timur,Malam,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Barat,Malam,Berawan Tebal,60 - 95,24 - 31
+2017-06-04,Jakarta Selatan,Malam,Berawan,60 - 95,24 - 31
+2017-06-04,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,24 - 31
+2017-06-04,Jakarta Pusat,Malam,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Utara,Malam,Berawan Tebal,60 - 95,24 - 31
+2017-06-04,Jakarta Timur,Dini Hari,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Kepulauan Seribu,Dini Hari,Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-04,Jakarta Utara,Dini Hari,Berawan,60 - 95,24 - 31
+2017-06-05,Jakarta Timur,Pagi,Hujan Petir,65 - 90,25 - 33
+2017-06-05,Jakarta Barat,Pagi,Hujan Lokal,65 - 90,25 - 33
+2017-06-05,Jakarta Selatan,Pagi,Hujan Petir,65 - 90,25 - 33
+2017-06-05,Kepulauan Seribu,Pagi,Cerah Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Pusat,Pagi,Hujan Lokal,65 - 90,25 - 33
+2017-06-05,Jakarta Utara,Pagi,Hujan Lokal,65 - 90,25 - 33
+2017-06-05,Jakarta Timur,Siang,Cerah Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Barat,Siang,Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Selatan,Siang,Cerah Berawan,65 - 90,25 - 33
+2017-06-05,Kepulauan Seribu,Siang,Hujan Lokal,65 - 90,25 - 33
+2017-06-05,Jakarta Pusat,Siang,Berawan Tebal,65 - 90,25 - 33
+2017-06-05,Jakarta Utara,Siang,Berawan Tebal,65 - 90,25 - 33
+2017-06-05,Jakarta Timur,Malam,Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Barat,Malam,Berawan Tebal,65 - 90,25 - 33
+2017-06-05,Jakarta Selatan,Malam,Berawan,65 - 90,25 - 33
+2017-06-05,Kepulauan Seribu,Malam,Hujan Lokal,65 - 90,25 - 33
+2017-06-05,Jakarta Pusat,Malam,Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Utara,Malam,Berawan Tebal,65 - 90,25 - 33
+2017-06-05,Jakarta Timur,Dini Hari,Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Barat,Dini Hari,Cerah Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Selatan,Dini Hari,Cerah Berawan,65 - 90,25 - 33
+2017-06-05,Kepulauan Seribu,Dini Hari,Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Pusat,Dini Hari,Cerah Berawan,65 - 90,25 - 33
+2017-06-05,Jakarta Utara,Dini Hari,Berawan,65 - 90,25 - 33
+2017-06-09,Jakarta Timur,Pagi,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Barat,Pagi,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Selatan,Pagi,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Kepulauan Seribu,Pagi,Cerah,60 - 95,23 - 33
+2017-06-09,Jakarta Pusat,Pagi,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Utara,Pagi,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Timur,Siang,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Barat,Siang,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Selatan,Siang,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Kepulauan Seribu,Siang,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Pusat,Siang,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Utara,Siang,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Timur,Malam,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Barat,Malam,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Selatan,Malam,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Kepulauan Seribu,Malam,Berawan Tebal,60 - 95,23 - 33
+2017-06-09,Jakarta Pusat,Malam,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Utara,Malam,Berawan Tebal,60 - 95,23 - 33
+2017-06-09,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Kepulauan Seribu,Dini Hari,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 95,23 - 33
+2017-06-09,Jakarta Utara,Dini Hari,Cerah Berawan,60 - 95,23 - 33
+2017-06-10,Jakarta Timur,Pagi,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Barat,Pagi,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Selatan,Pagi,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Kepulauan Seribu,Pagi,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Pusat,Pagi,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Utara,Pagi,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Timur,Siang,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Barat,Siang,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Selatan,Siang,Berawan,55 - 80,25 - 34
+2017-06-10,Kepulauan Seribu,Siang,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Pusat,Siang,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Utara,Siang,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Timur,Malam,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Barat,Malam,Berawan Tebal,55 - 80,25 - 34
+2017-06-10,Jakarta Selatan,Malam,Berawan,55 - 80,25 - 34
+2017-06-10,Kepulauan Seribu,Malam,Hujan Lokal,55 - 80,25 - 34
+2017-06-10,Jakarta Pusat,Malam,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Utara,Malam,Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Timur,Dini Hari,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Barat,Dini Hari,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Selatan,Dini Hari,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Kepulauan Seribu,Dini Hari,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Pusat,Dini Hari,Cerah Berawan,55 - 80,25 - 34
+2017-06-10,Jakarta Utara,Dini Hari,Cerah Berawan,55 - 80,25 - 34
+2017-06-11,Jakarta Timur,Pagi,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Barat,Pagi,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Selatan,Pagi,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Kepulauan Seribu,Pagi,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Pusat,Pagi,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Utara,Pagi,Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Timur,Siang,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Barat,Siang,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Selatan,Siang,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Kepulauan Seribu,Siang,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Pusat,Siang,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Utara,Siang,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Timur,Malam,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Barat,Malam,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Selatan,Malam,Cerah Berawan,80 - 90,25 - 33
+2017-06-11,Kepulauan Seribu,Malam,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Pusat,Malam,Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Utara,Malam,Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Timur,Dini Hari,Berawan Tebal,80 - 90,25 - 33
+2017-06-11,Jakarta Barat,Dini Hari,Berawan,80 - 90,25 - 33
+2017-06-11,Jakarta Selatan,Dini Hari,Berawan,80 - 90,25 - 33
+2017-06-11,Kepulauan Seribu,Dini Hari,Hujan Lokal,80 - 90,25 - 33
+2017-06-11,Jakarta Pusat,Dini Hari,Berawan Tebal,80 - 90,25 - 33
+2017-06-11,Jakarta Utara,Dini Hari,Berawan Tebal,80 - 90,25 - 33
+2017-06-12,Jakarta Timur,Pagi,Hujan Lokal,65 - 95,25 - 33
+2017-06-12,Jakarta Barat,Pagi,Hujan Lokal,65 - 95,25 - 33
+2017-06-12,Jakarta Selatan,Pagi,Hujan Lokal,65 - 95,25 - 33
+2017-06-12,Kepulauan Seribu,Pagi,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Pusat,Pagi,Hujan Lokal,65 - 95,25 - 33
+2017-06-12,Jakarta Utara,Pagi,Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Timur,Siang,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Barat,Siang,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Selatan,Siang,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Kepulauan Seribu,Siang,Cerah,65 - 95,25 - 33
+2017-06-12,Jakarta Pusat,Siang,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Utara,Siang,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Timur,Malam,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Barat,Malam,Cerah Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Selatan,Malam,Hujan Lokal,65 - 95,25 - 33
+2017-06-12,Kepulauan Seribu,Malam,Hujan Ringan,65 - 95,25 - 33
+2017-06-12,Jakarta Pusat,Malam,Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Utara,Malam,Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Timur,Dini Hari,Berawan Tebal,65 - 95,25 - 33
+2017-06-12,Jakarta Barat,Dini Hari,Berawan,65 - 95,25 - 33
+2017-06-12,Jakarta Selatan,Dini Hari,Berawan,65 - 95,25 - 33
+2017-06-12,Kepulauan Seribu,Dini Hari,Hujan Lokal,65 - 95,25 - 33
+2017-06-12,Jakarta Pusat,Dini Hari,Berawan Tebal,65 - 95,25 - 33
+2017-06-12,Jakarta Utara,Dini Hari,Berawan Tebal,65 - 95,25 - 33
+2017-06-13,Jakarta Timur,Pagi,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Barat,Pagi,Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Selatan,Pagi,Hujan Petir,60 - 95,24 - 32
+2017-06-13,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Pusat,Pagi,Hujan Lokal,60 - 95,24 - 32
+2017-06-13,Jakarta Utara,Pagi,Hujan Lokal,60 - 95,24 - 32
+2017-06-13,Jakarta Timur,Siang,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Barat,Siang,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Selatan,Siang,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Pusat,Siang,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Utara,Siang,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Timur,Malam,Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Barat,Malam,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Selatan,Malam,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,24 - 32
+2017-06-13,Jakarta Pusat,Malam,Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Utara,Malam,Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 95,24 - 32
+2017-06-13,Kepulauan Seribu,Dini Hari,Cerah Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 95,24 - 32
+2017-06-13,Jakarta Utara,Dini Hari,Cerah Berawan,60 - 95,24 - 32
+2017-06-15,Jakarta Timur,Pagi,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Barat,Pagi,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Selatan,Pagi,Hujan Ringan,60 - 90,25 - 33
+2017-06-15,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Pusat,Pagi,Cerah Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Utara,Pagi,Cerah Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Timur,Siang,Hujan Lokal,60 - 90,25 - 33
+2017-06-15,Jakarta Barat,Siang,Berawan Tebal,60 - 90,25 - 33
+2017-06-15,Jakarta Selatan,Siang,Berawan,60 - 90,25 - 33
+2017-06-15,Kepulauan Seribu,Siang,Hujan Lokal,60 - 90,25 - 33
+2017-06-15,Jakarta Pusat,Siang,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Utara,Siang,Hujan Lokal,60 - 90,25 - 33
+2017-06-15,Jakarta Timur,Malam,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Barat,Malam,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Selatan,Malam,Berawan,60 - 90,25 - 33
+2017-06-15,Kepulauan Seribu,Malam,Hujan Lokal,60 - 90,25 - 33
+2017-06-15,Jakarta Pusat,Malam,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Utara,Malam,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Timur,Dini Hari,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Barat,Dini Hari,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Selatan,Dini Hari,Berawan,60 - 90,25 - 33
+2017-06-15,Kepulauan Seribu,Dini Hari,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Pusat,Dini Hari,Berawan,60 - 90,25 - 33
+2017-06-15,Jakarta Utara,Dini Hari,Berawan,60 - 90,25 - 33
+2017-06-17,Jakarta Timur,Pagi,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Barat,Pagi,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Selatan,Pagi,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Kepulauan Seribu,Pagi,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Pusat,Pagi,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Utara,Pagi,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Timur,Siang,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Barat,Siang,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Selatan,Siang,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Kepulauan Seribu,Siang,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Pusat,Siang,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Utara,Siang,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Timur,Malam,Hujan Ringan,85 - 95,24 - 32
+2017-06-17,Jakarta Barat,Malam,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Selatan,Malam,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Kepulauan Seribu,Malam,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Pusat,Malam,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Utara,Malam,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Timur,Dini Hari,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Barat,Dini Hari,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Selatan,Dini Hari,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Kepulauan Seribu,Dini Hari,Hujan Lokal,85 - 95,24 - 32
+2017-06-17,Jakarta Pusat,Dini Hari,Cerah Berawan,85 - 95,24 - 32
+2017-06-17,Jakarta Utara,Dini Hari,Cerah Berawan,85 - 95,24 - 32
+2017-06-18,Jakarta Timur,Pagi,Hujan Lokal,55 - 95,24 - 33
+2017-06-18,Jakarta Barat,Pagi,Hujan Lokal,55 - 95,24 - 33
+2017-06-18,Jakarta Selatan,Pagi,Hujan Lokal,55 - 95,24 - 33
+2017-06-18,Kepulauan Seribu,Pagi,Cerah,55 - 95,24 - 33
+2017-06-18,Jakarta Pusat,Pagi,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Utara,Pagi,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Timur,Siang,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Barat,Siang,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Selatan,Siang,Hujan Lokal,55 - 95,24 - 33
+2017-06-18,Kepulauan Seribu,Siang,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Pusat,Siang,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Utara,Siang,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Timur,Malam,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Barat,Malam,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Selatan,Malam,Berawan,55 - 95,24 - 33
+2017-06-18,Kepulauan Seribu,Malam,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Pusat,Malam,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Utara,Malam,Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Timur,Dini Hari,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Barat,Dini Hari,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Selatan,Dini Hari,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Kepulauan Seribu,Dini Hari,Hujan Lokal,55 - 95,24 - 33
+2017-06-18,Jakarta Pusat,Dini Hari,Cerah Berawan,55 - 95,24 - 33
+2017-06-18,Jakarta Utara,Dini Hari,Cerah Berawan,55 - 95,24 - 33
+2017-06-19,Jakarta Timur,Pagi,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Barat,Pagi,Cerah Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Selatan,Pagi,Cerah,60 - 90,24 - 30
+2017-06-19,Kepulauan Seribu,Pagi,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Pusat,Pagi,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Utara,Pagi,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Timur,Siang,Cerah Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Barat,Siang,Hujan Lokal,60 - 90,24 - 30
+2017-06-19,Jakarta Selatan,Siang,Hujan Lokal,60 - 90,24 - 30
+2017-06-19,Kepulauan Seribu,Siang,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Pusat,Siang,Cerah Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Utara,Siang,Cerah Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Timur,Malam,Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Barat,Malam,Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Selatan,Malam,Berawan,60 - 90,24 - 30
+2017-06-19,Kepulauan Seribu,Malam,Hujan Lokal,60 - 90,24 - 30
+2017-06-19,Jakarta Pusat,Malam,Cerah Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Utara,Malam,Cerah Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Timur,Dini Hari,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Barat,Dini Hari,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Selatan,Dini Hari,Cerah,60 - 90,24 - 30
+2017-06-19,Kepulauan Seribu,Dini Hari,Berawan,60 - 90,24 - 30
+2017-06-19,Jakarta Pusat,Dini Hari,Cerah,60 - 90,24 - 30
+2017-06-19,Jakarta Utara,Dini Hari,Cerah,60 - 90,24 - 30
+2017-06-20,Jakarta Timur,Pagi,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Barat,Pagi,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Selatan,Pagi,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Pusat,Pagi,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Utara,Pagi,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Timur,Siang,Hujan Lokal,60 - 85,24 - 33
+2017-06-20,Jakarta Barat,Siang,Hujan Lokal,60 - 85,24 - 33
+2017-06-20,Jakarta Selatan,Siang,Hujan Lokal,60 - 85,24 - 33
+2017-06-20,Kepulauan Seribu,Siang,Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Pusat,Siang,Hujan Lokal,60 - 85,24 - 33
+2017-06-20,Jakarta Utara,Siang,Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Timur,Malam,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Barat,Malam,Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Selatan,Malam,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Kepulauan Seribu,Malam,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Pusat,Malam,Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Utara,Malam,Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Kepulauan Seribu,Dini Hari,Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 85,24 - 33
+2017-06-20,Jakarta Utara,Dini Hari,Cerah Berawan,60 - 85,24 - 33
+2017-06-21,Jakarta Timur,Pagi,Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Barat,Pagi,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Selatan,Pagi,Berawan,60 - 95,24 - 33
+2017-06-21,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Pusat,Pagi,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Utara,Pagi,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Timur,Siang,Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Barat,Siang,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Selatan,Siang,Berawan,60 - 95,24 - 33
+2017-06-21,Kepulauan Seribu,Siang,Hujan Lokal,60 - 95,24 - 33
+2017-06-21,Jakarta Pusat,Siang,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Utara,Siang,Hujan Lokal,60 - 95,24 - 33
+2017-06-21,Jakarta Timur,Malam,Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Barat,Malam,Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Selatan,Malam,Berawan,60 - 95,24 - 33
+2017-06-21,Kepulauan Seribu,Malam,Hujan Lokal,60 - 95,24 - 33
+2017-06-21,Jakarta Pusat,Malam,Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Utara,Malam,Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Kepulauan Seribu,Dini Hari,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 95,24 - 33
+2017-06-21,Jakarta Utara,Dini Hari,Cerah Berawan,60 - 95,24 - 33
+2017-06-22,Jakarta Timur,Pagi,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Barat,Pagi,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Selatan,Pagi,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Pusat,Pagi,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Utara,Pagi,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Timur,Siang,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Barat,Siang,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Selatan,Siang,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Kepulauan Seribu,Siang,Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Pusat,Siang,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Utara,Siang,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Timur,Malam,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Barat,Malam,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Selatan,Malam,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Kepulauan Seribu,Malam,Hujan Lokal,60 - 90,24 - 33
+2017-06-22,Jakarta Pusat,Malam,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Utara,Malam,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 90,24 - 33
+2017-06-22,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 90,24 - 33
+2017-06-22,Jakarta Utara,Dini Hari,Cerah Berawan,60 - 90,24 - 33
+2017-06-27,Jakarta Timur,Pagi,Hujan Sedang,65 - 85,23 - 31
+2017-06-27,Jakarta Barat,Pagi,Hujan Sedang,65 - 85,23 - 31
+2017-06-27,Jakarta Selatan,Pagi,Hujan Sedang,65 - 85,23 - 31
+2017-06-27,Kepulauan Seribu,Pagi,Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Pusat,Pagi,Hujan Sedang,65 - 85,23 - 31
+2017-06-27,Jakarta Utara,Pagi,Hujan Ringan,65 - 85,23 - 31
+2017-06-27,Jakarta Timur,Siang,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Barat,Siang,Hujan Ringan,65 - 85,23 - 31
+2017-06-27,Jakarta Selatan,Siang,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Kepulauan Seribu,Siang,Hujan Lokal,65 - 85,23 - 31
+2017-06-27,Jakarta Pusat,Siang,Hujan Ringan,65 - 85,23 - 31
+2017-06-27,Jakarta Utara,Siang,Hujan Ringan,65 - 85,23 - 31
+2017-06-27,Jakarta Timur,Malam,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Barat,Malam,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Selatan,Malam,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Kepulauan Seribu,Malam,Hujan Ringan,65 - 85,23 - 31
+2017-06-27,Jakarta Pusat,Malam,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Utara,Malam,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Timur,Dini Hari,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Barat,Dini Hari,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Selatan,Dini Hari,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Kepulauan Seribu,Dini Hari,Hujan Lokal,65 - 85,23 - 31
+2017-06-27,Jakarta Pusat,Dini Hari,Cerah Berawan,65 - 85,23 - 31
+2017-06-27,Jakarta Utara,Dini Hari,Hujan Ringan,65 - 85,23 - 31
+2017-06-29,Jakarta Timur,Pagi,Hujan Ringan,80 - 95,24 - 30
+2017-06-29,Jakarta Barat,Pagi,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Selatan,Pagi,Hujan Lokal,80 - 95,24 - 30
+2017-06-29,Kepulauan Seribu,Pagi,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Pusat,Pagi,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Utara,Pagi,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Timur,Siang,Hujan Sedang,80 - 95,24 - 30
+2017-06-29,Jakarta Barat,Siang,Hujan Ringan,80 - 95,24 - 30
+2017-06-29,Jakarta Selatan,Siang,Hujan Sedang,80 - 95,24 - 30
+2017-06-29,Kepulauan Seribu,Siang,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Pusat,Siang,Hujan Ringan,80 - 95,24 - 30
+2017-06-29,Jakarta Utara,Siang,Hujan Ringan,80 - 95,24 - 30
+2017-06-29,Jakarta Timur,Malam,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Barat,Malam,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Selatan,Malam,Berawan,80 - 95,24 - 30
+2017-06-29,Kepulauan Seribu,Malam,Hujan Lokal,80 - 95,24 - 30
+2017-06-29,Jakarta Pusat,Malam,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Utara,Malam,Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Timur,Dini Hari,Cerah Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Barat,Dini Hari,Cerah Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Selatan,Dini Hari,Cerah Berawan,80 - 95,24 - 30
+2017-06-29,Kepulauan Seribu,Dini Hari,Cerah Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Pusat,Dini Hari,Cerah Berawan,80 - 95,24 - 30
+2017-06-29,Jakarta Utara,Dini Hari,Cerah Berawan,80 - 95,24 - 30
+2017-06-30,Jakarta Timur,Pagi,Hujan Lokal,60 - 95,24 - 31
+2017-06-30,Jakarta Barat,Pagi,Hujan Lokal,60 - 95,24 - 31
+2017-06-30,Jakarta Selatan,Pagi,Hujan Lokal,60 - 95,24 - 31
+2017-06-30,Kepulauan Seribu,Pagi,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Jakarta Pusat,Pagi,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Jakarta Utara,Pagi,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Jakarta Timur,Siang,Berawan Tebal,60 - 95,24 - 31
+2017-06-30,Jakarta Barat,Siang,Berawan Tebal,60 - 95,24 - 31
+2017-06-30,Jakarta Selatan,Siang,Hujan Lokal,60 - 95,24 - 31
+2017-06-30,Kepulauan Seribu,Siang,Hujan Lokal,60 - 95,24 - 31
+2017-06-30,Jakarta Pusat,Siang,Berawan Tebal,60 - 95,24 - 31
+2017-06-30,Jakarta Utara,Siang,Berawan Tebal,60 - 95,24 - 31
+2017-06-30,Jakarta Timur,Malam,Hujan Petir,60 - 95,24 - 31
+2017-06-30,Jakarta Barat,Malam,Hujan Ringan,60 - 95,24 - 31
+2017-06-30,Jakarta Selatan,Malam,Hujan Petir,60 - 95,24 - 31
+2017-06-30,Kepulauan Seribu,Malam,Hujan Petir,60 - 95,24 - 31
+2017-06-30,Jakarta Pusat,Malam,Hujan Petir,60 - 95,24 - 31
+2017-06-30,Jakarta Utara,Malam,Hujan Petir,60 - 95,24 - 31
+2017-06-30,Jakarta Timur,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Jakarta Barat,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Jakarta Selatan,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 95,24 - 31
+2017-06-30,Jakarta Pusat,Dini Hari,Cerah Berawan,60 - 95,24 - 31
+2017-06-30,Jakarta Utara,Dini Hari,Cerah Berawan,60 - 95,24 - 31
